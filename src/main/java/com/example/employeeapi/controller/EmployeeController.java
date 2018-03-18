@@ -15,13 +15,15 @@ public class EmployeeController {
     @Autowired
     private EmployeeRepository employeeRepository;
 
-    @RequestMapping(value = "/employees",method = RequestMethod.GET)
+    @RequestMapping("/employees")
     String getEmployees(Model model) {
-        model.addAttribute("message", "mmmmmm");
+        model.addAttribute("message", "hello world");
+
 
 //        return new ResponseEntity<>(employeeRepository.getAllEmployees(), HttpStatus.OK);
         return "employees";
     }
+
 
     @GetMapping("/employees/{id}")
     ResponseEntity getEmployee(@PathVariable("id") int id) {
