@@ -19,8 +19,6 @@ public class EmployeeController {
     String getEmployees(Model model) {
         model.addAttribute("message", "hello world");
 
-
-//        return new ResponseEntity<>(employeeRepository.getAllEmployees(), HttpStatus.OK);
         return "employees";
     }
 
