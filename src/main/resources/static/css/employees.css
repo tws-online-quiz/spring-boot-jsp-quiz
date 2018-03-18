@@ -1,0 +1,29 @@
+
+table#employees {
+    width: 60%;
+    text-align: center;
+    margin: 40px  auto;
+}
+
+table#employees, table#employees th, table#employees td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table#employees th, table#employees td {
+    padding: 10px;
+}
+
+table#employees tr:nth-child(even) {
+    background-color: #eee;
+}
+
+table#employees tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table#employees th {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
