@@ -1,6 +1,1 @@
-#!/bin/bash -e
-
-if [ ! -f result.png ]; then
-    echo "result.png不存在!";
-    exit 1;
-fi
+### 答案详情请见answer.zip 的压缩包
