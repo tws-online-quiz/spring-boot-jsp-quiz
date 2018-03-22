@@ -10,8 +10,7 @@
 - Intellij-IDEA
 
 ## 如何开始
-- 在上次项目基础上完成
-- 或者在命令行中使用以下命令在用户本地任意目录下clone此题目库
+- 在命令行中使用以下命令在用户本地任意目录下clone此题目库
 ```
 git clone repo_of_this_template
 ```
