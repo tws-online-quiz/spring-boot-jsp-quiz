@@ -10,9 +10,7 @@
 - Intellij-IDEA
 
 ## 如何开始
-- 使用如下方式建立Spring boot项目
-  - 从`http://start.spring.io/`生成一个项目包
-  - 下载解压，开始编码
+- 在上次项目基础上完成
 - 使用`./gradlew bootRun`来启动服务器
 
 ## 输出规范
