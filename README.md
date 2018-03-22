@@ -11,10 +11,14 @@
 
 ## 如何开始
 - 在上次项目基础上完成
+- 或者在命令行中使用以下命令在用户本地任意目录下clone此题目库
+```
+git clone repo_of_this_template
+```
 - 使用`./gradlew bootRun`来启动服务器
 
 ## 输出规范
-- 用jsp 完成如下页面：
+- 用jsp 完成如下页面
 ![result.png](./example.png)
 
 - 项目根目录下必须包含运行截图`result.png`
