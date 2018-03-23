@@ -1,7 +1,7 @@
 # Spring MVC基础
 
 ## 练习描述
-- 在上次Employee API的基础上，利用 get 接口获取的数据完成一张table
+- 在上次[Employee API](https://school.thoughtworks.cn/learn/program-center/student/index.html#/student/program/11/task/155)的基础上，利用 get 接口获取的数据完成一张table
 - 使用 jsp 来渲染页面
 
 ## 环境描述 
