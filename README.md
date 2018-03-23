@@ -18,7 +18,7 @@ git clone repo_of_this_template
 
 ## 输出规范
 - 用jsp 完成如下页面
-![result.png](./example.png)
+![](https://raw.githubusercontent.com/tws-online-quiz/spring-boot-jsp-quiz/master/example.png)
 
 - 项目根目录下必须包含运行截图`result.png`
     
