@@ -20,6 +20,7 @@ gradle-app.setting
 
 # Gradle:
 .idea
+*.iml
 
 # CMake
 cmake-build-debug/
