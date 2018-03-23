@@ -15,6 +15,7 @@
 git clone repo_of_this_template
 ```
 - 使用`./gradlew bootRun`来启动服务器
+- 本地访问：http://localhost:8080/employees
 
 ## 输出规范
 - 用jsp 完成如下页面
