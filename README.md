@@ -2,27 +2,18 @@
 
 ## 练习描述
 - 在上次[Employee API](https://school.thoughtworks.cn/learn/program-center/student/index.html#/student/program/11/task/155)的基础上，利用 get 接口获取的数据完成一张table
-- 使用 jsp 来渲染页面
+- 要求使用 jsp 来渲染如下页面![](https://raw.githubusercontent.com/tws-online-quiz/spring-boot-jsp-quiz/master/example.png)
+- 代码通过小步提交，并且每次提交的描述都要有意义
+- 使用快捷键编码
 
 ## 环境描述 
 - java8
-- spring-boot
 - Intellij-IDEA
 
 ## 如何开始
-- 在命令行中使用以下命令在用户本地任意目录下clone此题目库
-```
-git clone repo_of_this_template
-```
-- 使用`./gradlew bootRun`来启动服务器
-- 本地访问：http://localhost:8080/employees
+- 克隆模版库,在 `src/main`下完成需求
+- 使用`./gradlew bootRun`来启动服务器，若出现 `Tomcat started on port(s): 8080 (http)` 字样，说明项目启动成功。
 
 ## 输出规范
-- 用jsp 完成如下页面
-![](https://raw.githubusercontent.com/tws-online-quiz/spring-boot-jsp-quiz/master/example.png)
-
+- 完成需求的代码
 - 项目根目录下必须包含运行截图`result.png`
-    
-## 题目要求
-- 代码通过小步提交，并且每次提交的描述都要有意义
-- 使用快捷键编码
