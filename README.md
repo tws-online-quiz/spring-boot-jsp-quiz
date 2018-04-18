@@ -1,7 +1,7 @@
 # Spring MVC基础
 
 ## 练习描述
-- 在上次[Employee API]项目(https://github.com/tws-online-quiz/spring-boot-quiz)的基础上，利用 get 接口获取的数据完成一张table
+- 在上次[Employee API](https://github.com/tws-online-quiz/spring-boot-quiz)项目的基础上，利用 get 接口获取的数据完成一张table
 - 要求使用 jsp 来渲染如下页面![](https://raw.githubusercontent.com/tws-online-quiz/spring-boot-jsp-quiz/master/example.png)
 - 代码通过小步提交，并且每次提交的描述都要有意义
 - 使用快捷键编码
